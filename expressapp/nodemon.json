@@ -1,0 +1,4 @@
+{
+"watch": ["."],           
+"ignore": ["static/tasks.json"]
+}
